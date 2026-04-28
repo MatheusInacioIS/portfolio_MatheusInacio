@@ -1,21 +1,21 @@
-# [Matheus Inácio da Silva]
-> Estudante de [Ciência da Computação]
+# Matheus Inácio da Silva
+> Estudante de Ciência da Computação
  
 ---
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/matheus-inácio-da-silva-02a6aa2b6)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusinaciio16@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 1º período de Ciência da Computação na Universidade Cidade de São Paulo(UNICID). Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend / Análise de Dados.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** Python, Java, AWS.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** .
  
 ---
  
@@ -27,10 +27,6 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
  
 #### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
  
 ---
  
