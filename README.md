@@ -40,7 +40,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./projeto-GlyphQR/) |
  
 ---
  
