@@ -40,7 +40,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./MatheusInacioIS/projeto-GlyphQR/) |
+| **Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./projeto-matheus-glyph/) |
  
 ---
  
