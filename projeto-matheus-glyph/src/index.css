@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  @apply transition-colors duration-500;
+}
+
+.qr-container canvas {
+  @apply max-w-full h-auto;
+}
