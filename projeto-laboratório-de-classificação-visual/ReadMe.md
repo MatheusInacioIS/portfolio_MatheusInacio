@@ -1,4 +1,4 @@
-# Sistema de Criação de QR-Code
+# Detecção de Sentimento: Feliz vs. Triste
  
 ## 📝 Descrição do Projeto
 Este projeto foi desenvolvido como uma Atividade Formativa com o objetivo de treinar um modelo de visão computacional capaz de distinguir entre pessoas felizes e tristes. Através da análise de um conjunto de dados composto por 40 fotos de pessoas e expressoes diferentes, o sistema busca classificar sentimentos com base em imagens.
