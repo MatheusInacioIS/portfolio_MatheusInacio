@@ -41,7 +41,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./projeto-matheus-glyph/) |
-| **Batalha de Modelos** | Batalha de Modelos de LLM's com projeto (siteo) | [Ver Projeto](./projeto-batalha-de-modelos-e-engenhariadeprompt/) |
+| **Batalha de Modelos** | Batalha de Modelos de LLM's com projeto (siteo) | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt/) |
 | **Laboratório de Classificação Visual** | Classificação visual por I.A | [Ver Projeto](./projeto-laboratório-de-classificação-visual/) |
  
 ---
