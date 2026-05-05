@@ -53,3 +53,14 @@ Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+
+├── 🤖 projeto-corrida-do-prompt/            # Dinâmicas de engenharia de prompt e imagens
+├── 🔍 projeto-laboratório-de-classificação/  # Modelos de visão computacional e classificação
+├── ⚔️ projeto-batalha-de-modelos/           # Comparativo entre LLMs e Engenharia de Prompt
+├── 🔄 projeto-engenharia-reversa/           # Clonagem de interfaces e análise de Neumorfismo
+├── 💎 projeto-matheus-glyph/               # MVP+ GlyphQR: QR Codes estéticos e funcionais
+│   ├── src/                                # Código-fonte do gerador
+│   ├── assets/                             # Recursos visuais e estilos "glyph"
+│   └── docs/                               # Documentação técnica e README do projeto
+├── README.md                               # Arquivo principal (o que você está editando)
+└── .gitignore                              # Arquivos ignorados (venv, cache, etc.)
