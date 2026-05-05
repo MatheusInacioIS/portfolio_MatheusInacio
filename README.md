@@ -40,11 +40,12 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Do Clone ao Produto Mínimo Viável (MVP+) Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./projeto-matheus-glyph/) |
-| **Batalha de Modelos** | Batalha de Modelos de LLM's com projeto (siteo) | [Ver Projeto](./projeto-batalha-demodelos-e-engenharia-de-prompt/) |
+| **Corrida do Prompt** | Clonagem de site de neomorphismo | [Ver Projeto](./projeto-corrida-do-prompt/) |
 | **Laboratório de Classificação Visual** | Classificação visual por I.A | [Ver Projeto](./projeto-laboratório-de-classificação-visual/) |
+| **Batalha de Modelos** | Batalha de Modelos de LLM's com projeto (siteo) | [Ver Projeto](./projeto-batalha-demodelos-e-engenharia-de-prompt/) |
 | **Engenharia Reversa** | Clonagem de site de neomorphismo | [Ver Projeto](./projeto-engenharia-reversa/) |
- 
+| **Do Clone ao Produto Mínimo Viável (MVP+) Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./projeto-matheus-glyph/) |
+
 ---
  
 ### 🏗 Estrutura do Repositório
