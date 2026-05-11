@@ -10,7 +10,7 @@ Desenvolver uma aplicação funcional utilizando Bubble.io, aplicando conceitos 
 ##🔗Links do Projeto
 | Projeto | Link |
 | :--- | :---: |
-| **🌐 Aplicativo**|(./[(Acessar Aplicativo)) ](https://matheusinaciio16-96493.bubbleapps.io/version-test/?debug_mode=true)|
+| **🌐 Aplicativo**|([(Acessar Aplicativo)) ](https://matheusinaciio16-96493.bubbleapps.io/version-test/?debug_mode=true)|
 
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** Qwen3.5-Plus
