@@ -19,7 +19,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [CONCRETE BLOOM] | [Hip Hop] | [Arquivo MP3](./audio/CONCRETE-BLOOM.mp3) |
+| 01 | [CONCRETE BLOOM] | [Hip Hop] | [Arquivo MP3](./audio/concrete-bloom.mp3) |
 | 02 | [EXIT-SIGN] | [Hip Hop] | [Arquivo MP3](./audio/EXIT-SIGN.mp3) |
 | 03 | [EYELID-CINEMA] | [Hip Hop] | [Arquivo MP3](./audio/EYELID-CINEMA.mp3) |
 | 04 | [GHOST-IN-THE-MIRROR] | [Hip Hop/Jazz] | [Arquivo MP3](./audio/GHOST-IN-THE-MIRROR.mp3) |
