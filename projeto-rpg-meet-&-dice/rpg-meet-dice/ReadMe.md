@@ -27,25 +27,6 @@ Em resumo: crie campanhas, organize sessões, converse com sua party e role dado
 
 ---
 
-# 📸 Capturas de Tela / GIF de Funcionamento
-
-Adicione aqui os screenshots ou GIFs da aplicação em funcionamento.
-
-Sugestões de ferramentas:
-- ScreenToGif (Windows)
-- Kap (macOS)
-
-```md
-[ Screenshot — Landing Page ]
-[ Screenshot — Dashboard de Campanhas ]
-[ Screenshot — Sala de Sessão com Jitsi ]
-[ Screenshot — Sistema de Rolagem de Dados ]
-[ GIF — Criação de Campanha ]
-[ GIF — Jogadores entrando via QR Code ]
-```
-
----
-
 # 🚀 Instruções de Uso
 
 ## Pré-requisitos
