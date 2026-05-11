@@ -135,7 +135,11 @@ http://localhost:5173
 Escaneie o QR Code abaixo para acessar a demonstração online:
 
 <p align="center">
-  <img src="./assets/qrcode.png" alt="QR Code RPG Meet & Dice" width="250"/>
+  <img 
+    src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://manus.im/app-preview/3U5gEJk4oK8ZBGRBqe5j6M?sessionId=zfc12mqdE8vzEWgPyCUKzy" 
+    alt="QR Code RPG Meet & Dice"
+    width="250"
+  />
 </p>
 
 ---
