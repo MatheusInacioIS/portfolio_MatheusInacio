@@ -20,10 +20,10 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 | 01 | [CONCRETE BLOOM] | [Estilo] | [Arquivo MP3](./audio/CONCRETE-BLOOM.mp3) |
-| 02 | [Título 02] | [Estilo] | [Arquivo MP3](./audio/EXIT-SIGN.mp3) |
-| 03 | [Título 03] | [Estilo] | [Arquivo MP3](./audio/EYELID-CINEMA.mp3) |
-| 04 | [Título 04] | [Estilo] | [Arquivo MP3](./audio/GHOST-IN-THE-MIRROR.mp3) |
-| 05 | [Título 05] | [Estilo] | [Arquivo MP3](./audio/MANNEQUIN-DRIVE.mp3) |
+| 02 | [EXIT-SIGN] | [Estilo] | [Arquivo MP3](./audio/EXIT-SIGN.mp3) |
+| 03 | [EYELID-CINEMA] | [Estilo] | [Arquivo MP3](./audio/EYELID-CINEMA.mp3) |
+| 04 | [GHOST-IN-THE-MIRROR] | [Estilo] | [Arquivo MP3](./audio/GHOST-IN-THE-MIRROR.mp3) |
+| 05 | [MANNEQUIN-DRIVE] | [Estilo] | [Arquivo MP3](./audio/MANNEQUIN-DRIVE.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
