@@ -47,7 +47,7 @@ Atualmente cursando o 1º semestre de Ciência da Computação na Universidade C
 | **Do Clone ao Produto Mínimo Viável (MVP+) Glyph** | GlyphQR é um projeto focado em transformar a experiência de criação de QR Codes, permitindo maior flexibilidade estética (estilo "glyph") sem perder a funcionalidade e a velocidade de leitura. | [Ver Projeto](./projeto-matheus-glyph/) |
 | **Engenharia de Software e IA com Bubble.io** | Construção de aplicativos por meio de ferramentas no-code com integração de inteligência artificial. | [Ver Projeto](./bubble_io_ia/) |
 | **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Desenvolvimento de um aplicativo de videoconferência utilizando Manus AI e a plataforma Jitsi. | [Ver Projeto](./projeto-rpg-meet-&-dice/) |
-| **Desenvolvimento de Musicas com Gemini Gem e Suno Ai Music** | Desenvolvimento de Musicas com Gemini Gem e Suno Ai Music | [Ver Projeto](./projeto-composição-musical-assistida-por-inteligência-artificial/) |
+| **Composição Musical Assistida por Inteligência Artificial** | Desenvolvimento de Musicas com Gemini Gem e Suno Ai Music | [Ver Projeto](./projeto-composição-musical-assistida-por-inteligência-artificial/) |
 
 ---
  
